@@ -1,0 +1,68 @@
+{
+  "name": "my-ai-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@fontsource/inter": "^5.0.20",
+    "@fontsource/poppins": "^5.0.14",
+    "axios": "^1.6.7",
+    "dotenv": "^16.4.1",
+    "lucide-react": "^0.427.0",
+    "next": "14.2.5",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "react-hot-toast": "^2.4.1",
+    "sharp": "^0.33.4"
+
+  },
+  "devDependencies": {
+    "@types/node": "^20.15.0",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18",
+    "@typescript-eslint/eslint-plugin": "^8.1.0",
+    "@typescript-eslint/parser": "^8.1.0",
+    "postcss": "^8",
+    "prettier": "^3.3.3",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5.3.3"
+  },
+  "description": "AI Starter Stack for Non-Developers Tutorial",
+  "main": "page.tsx",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wordopera/my-ai-app.git"
+  },
+  "keywords": [
+    "AI",
+    "Starter",
+    "Technology",
+    "Stack",
+    "Non-Developers",
+    "Github",
+    "Node.js",
+    "Next.js",
+    "Typescript",
+    "Supabase",
+    "LLM",
+    "OpenAI",
+    "Anthropic",
+    "Llama",
+    "Gemini",
+    "Integration",
+    "Professionals",
+    "Agentic6",
+    "Hackerspace"
+  ],
+  "author": "Stephen Wise",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wordopera/my-ai-app/issues"
+  },
+  "homepage": "https://github.com/wordopera/my-ai-app#readme"
+}
